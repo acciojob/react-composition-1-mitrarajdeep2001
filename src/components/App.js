@@ -11,7 +11,7 @@ const App = () => {
           <li>Tab 2</li>
           <li>Tab 3</li>
         </ul>
-        <p>This is the content for {tab}</p>
+        <p>This is the content for {tab}.</p>
     </div>
   )
 }
